@@ -1,3 +1,4 @@
+%https://docs.google.com/document/d/1IXzMi7e1VdqKi3eo0gxBMpJ8N383QrGWhECECK6fRs4/edit
 clear
 close all
 t = -10:0.005:10
